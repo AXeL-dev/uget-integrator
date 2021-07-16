@@ -4,6 +4,7 @@
     "path": "/usr/bin/uget-integrator",
     "type": "stdio",
     "allowed_extensions": [
-        "uget-integration@slgobinath"
+        "uget-integration@slgobinath",
+        "uget-integration@axel-dev"
     ]
 }
